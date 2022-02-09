@@ -1,0 +1,25 @@
+body{
+    background-color: yellow;
+    text-align: center;
+}
+.container{
+    display: flex;
+}
+.box{
+    height: 204px;
+    width: 236px;
+    background-color: rgb(122, 122, 11);
+    display: inline-block;
+    position: relative;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 10px;
+}
+.element{
+    background-color: #fff;
+border-radius: 2px;
+text-align: center;
+}
+.hide{
+    display: none;
+}
